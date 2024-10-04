@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moon-book/static/css/main.eefc63d8.css",
+    "main.js": "/moon-book/static/js/main.79061821.js",
+    "index.html": "/moon-book/index.html",
+    "main.eefc63d8.css.map": "/moon-book/static/css/main.eefc63d8.css.map",
+    "main.79061821.js.map": "/moon-book/static/js/main.79061821.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefc63d8.css",
+    "static/js/main.79061821.js"
+  ]
+}
